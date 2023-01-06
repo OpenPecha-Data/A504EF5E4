@@ -1,0 +1,27 @@
+segment_sources:
+  I21D4D51F:
+    type: origin_type
+    relation: translation
+    base: DF41
+    lang: en
+  ID6848740:
+    type: origin_type
+    relation: translation
+    base: D888
+    lang: bo
+segment_pairs:
+  8bcd991ddf8441f69c53e56dae49baf0:
+    I21D4D51F: a72ff843a83e471a80f91ebffef3d4d8
+    ID6848740: 20e33dd11f8842b4a2cebe7a2cf2247d
+  214d4996e8634dfe8dc900cd532b349d:
+    I21D4D51F: 8c6acc5cbd8f4295b2b02a2133a9ee0c
+    ID6848740: 9c53954d463445c9ad06b318c1dba5fb
+  c7e4f7690b364b98947a29141f69bdf3:
+    I21D4D51F: 92f77bae9a1c4dc98027ee631b95488e
+    ID6848740: 68c965dc2cd244a993993b3e9f8ca8c2
+  7859bda7c9454b0097f4c834a6a3b652:
+    I21D4D51F: d995fc5e5bbf4429831e21e0f5215409
+    ID6848740: fb55a8d52301433c9e2d0fbfee4770ff
+  5c65aaaf579e4f5eaad2d11f6f83a40d:
+    I21D4D51F: 94eaa4a628604a2a87c309ffbcd068b3
+    ID6848740: bde4ad12cbab4cadb48541be11b4ad18
